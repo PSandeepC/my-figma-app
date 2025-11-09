@@ -1,0 +1,35 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+build/
+blog-app/
+pern-auth-system/
+pern-auth-system-argon/
+src - M15-Lesson-1-ErrorHandling/
+src-FramerMotion/
+src-redux-toolkit-createAsyncThunk/
+src-redux-toolkit-createAsyncThunk-mysql-postgresql/
+src-redux-toolkit-createAsyncThunk-mysql-postgresql 2.0/
+src-SpinnersToast/
